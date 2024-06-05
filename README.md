@@ -1,10 +1,10 @@
 # StackOverflow-Annual-Developer-Survey
 This repository contains an analysis of the Stack Overflow Developer Survey data. The analysis aims to explore various aspects of developers' demographics, work preferences, and compensation. The dataset has been cleaned and processed to ensure accurate and meaningful insights.
 
-#Overview
+# Overview
 The Stack Overflow Developer Survey is a comprehensive survey that collects data on developers' demographics, employment, coding activities, education levels, and more. This repository provides an in-depth analysis of the survey data, focusing on key questions such as the impact of education on employment, the most popular methods of learning to code, and the distribution of employment statuses among developers.
 
-#Data Cleaning
+# Data Cleaning
 The dataset has undergone extensive cleaning to ensure high-quality analysis. The following steps were performed:
 
 Drop Columns with High Missing Values: Columns with more than 50% missing values were removed.
