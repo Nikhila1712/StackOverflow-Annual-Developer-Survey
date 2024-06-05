@@ -19,7 +19,7 @@ Handle Specific Columns: Specific attention was given to columns like YearsCodeP
    Visualization: Bar chart of the remote-work column.
 3. How does coding experience affect the level of pay?
    Visualization: Scatter plot with a regression line.
-4. Question: What is the most popular method of learning to code?
+4. What is the most popular method of learning to code?
    Visualization: Bar chart of the LearnCode column.
 5. How does the employment status (Employment) distribution look among developers?
    Visualization: Scatter plot of the Employment column.
