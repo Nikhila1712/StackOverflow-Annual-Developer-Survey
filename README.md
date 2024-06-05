@@ -6,8 +6,6 @@ The Stack Overflow Developer Survey is a comprehensive survey that collects data
 
 # Data Cleaning
 The dataset has undergone extensive cleaning to ensure high-quality analysis. The following steps were performed:
-
-
 Drop Columns with High Missing Values: Columns with more than 50% missing values were removed.
 Fill Missing Values in Categorical Columns: Missing values in categorical columns were filled with the mode (most frequent value).
 Fill Missing Values in Numerical Columns: Missing values in numerical columns were filled with the median.
